@@ -20,7 +20,9 @@ To provide Steve's parents accurate stock performance analysis on 12 provided st
 ![2018 Refactored Code](https://user-images.githubusercontent.com/89044350/131709150-0ca955c2-98a8-49c8-8a4d-4305e25ce864.PNG)
 
 ## Comparison of Run Times
-The above shows that Refactored Code runs much quicker than the Original Code consisting of a "Nested For" loop to calculate the data. Image below of Nest For loop used in Original VBA Code:
+The above shows that Refactored Code runs much quicker than the Original Code consisting of a "Nested For" loop to calculate the data. 
+Image below of Nest For loop used in Original VBA Code:
+
 ![NestedForLoop](https://user-images.githubusercontent.com/89044350/131711307-e54e343d-66eb-48b8-9077-f980ec52ac82.PNG)
 
 
