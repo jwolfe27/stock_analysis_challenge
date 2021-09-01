@@ -1,7 +1,7 @@
 # Stock Analysis Challenge
 ---
 ## Overview of Project
-Analyze green stock performance from 2017 and 2018 for Steve and his parents. The below summary report details my analysis, which includes screenshots of run times using the original code, and run times utilizing the refactored code.  The original workbook from the module only analyzed one stock ticker "DQ".  My completed analysis expands to include all green stock (12 total) performances over the two year period, 2017 - 2018.
+The objective was to analyze green stock performance data from 2017 and 2018 for Steve and his parents. The below summary report details my analysis, which includes screenshots of run times using the original code, and run times utilizing the refactored code.  The original workbook from the module only analyzed one stock ticker "DQ".  My completed analysis expands to include all green stock (12 total) performances over the two year period, 2017 - 2018.
 
 ### Purpose
 To provide Steve's parents accurate stock performance analysis on 12 provided stocks for the years 2017, and 2018 to help them make educated and/or informed investment decisions
